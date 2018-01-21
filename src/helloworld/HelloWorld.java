@@ -19,6 +19,8 @@ public class HelloWorld {
         
         System.out.println("New to github");
         
+        System.out.println("This is second day");
+        
     }
     
 }
